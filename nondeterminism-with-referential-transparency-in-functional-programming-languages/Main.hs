@@ -5,7 +5,6 @@
 {-# LANGUAGE StandaloneKindSignatures #-}
 {-# LANGUAGE TemplateHaskell #-}
 {-# LANGUAGE TypeFamilies #-}
-
 module Main where
 
 import Data.Functor.Foldable (ana)
