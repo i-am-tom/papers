@@ -32,3 +32,11 @@ library nondeterminism-with-referential-transparency-in-functional-programming-l
   exposed-modules: Main
   default-language: Haskell2010
   hs-source-dirs: nondeterminism-with-referential-transparency-in-functional-programming-languages
+
+library probabilistic-functional-programming-in-haskell
+  build-depends: base ^>= 4.14
+               , containers ^>= 0.6
+               , random ^>= 1.2.1
+  exposed-modules: Main
+  default-language: Haskell2010
+  hs-source-dirs: probabilistic-functional-programming-in-haskell
