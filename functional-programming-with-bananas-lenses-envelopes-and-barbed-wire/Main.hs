@@ -126,7 +126,7 @@ type (||) = (,)
 (||) :: (a -> b) || (c -> d) -> (a, c) -> (b, d)
 (f, g) || (x, x') = (f x, g x')
 
--- Just going to use fst to mean grave pi and snd to mean acute pi; whose
+-- Just going to use fst to mean grave pi and snd to mean acute pi; who's
 -- coding font has a glyph for these?
 
 (△) :: (a -> b) -> (a -> c) -> a -> (b, c)
