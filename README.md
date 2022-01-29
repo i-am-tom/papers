@@ -8,6 +8,8 @@ a lot of the "fundamental" papers, and see if I can fill in some of the gaps.
 This repository is a collection of notes for papers that I've read. These notes
 will most likely take the form of Haskell code, but we'll see what happens.
 
+* [Applicative programming with effects](https://github.com/i-am-tom/papers/blob/master/applicative-programming-with-effects/Main.hs) _- Conor McBride, Ross Paterson_
+
 * [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire](https://github.com/i-am-tom/papers/blob/master/functional-programming-with-bananas-lenses-envelopes-and-barbed-wire/Main.hs) _- Erik Meijer, Maarten Fokkinga, Ross Paterson_
 
 * [Nondeterminism with Referential Transparency in Functional Programming Languages](https://github.com/i-am-tom/papers/blob/master/nondeterminism-with-referential-transparency-in-functional-programming-languages/Main.hs) _- F. W. Burton_
