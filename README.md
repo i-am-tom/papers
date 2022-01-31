@@ -10,6 +10,8 @@ will most likely take the form of Haskell code, but we'll see what happens.
 
 * [Applicative programming with effects](https://github.com/i-am-tom/papers/blob/master/applicative-programming-with-effects/Main.hs) _- Conor McBride, Ross Paterson_
 
+* [Clowns to the Left of me, Jokers to the Right: Dissecting Data Structures](https://github.com/i-am-tom/papers/blob/master/clowns-to-the-left-of-me-jokers-to-the-right-dissecting-data-structures/Main.hs) _- Conor McBride_
+
 * [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire](https://github.com/i-am-tom/papers/blob/master/functional-programming-with-bananas-lenses-envelopes-and-barbed-wire/Main.hs) _- Erik Meijer, Maarten Fokkinga, Ross Paterson_
 
 * [Nondeterminism with Referential Transparency in Functional Programming Languages](https://github.com/i-am-tom/papers/blob/master/nondeterminism-with-referential-transparency-in-functional-programming-languages/Main.hs) _- F. W. Burton_
