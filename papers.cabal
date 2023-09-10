@@ -3,63 +3,63 @@ name: papers
 version: 0
 
 library a-program-to-solve-sudoku
-  build-depends: base ^>= 4.14
-               , QuickCheck ^>= 2.14
+  build-depends: base
+               , QuickCheck
   exposed-modules: Main
   default-language: Haskell2010
   hs-source-dirs: a-program-to-solve-sudoku
 
 library applicative-programming-with-effects
-  build-depends: base ^>= 4.14
-               , containers ^>= 0.6
-               , QuickCheck ^>= 2.14
-               , recursion-schemes ^>= 5.2
+  build-depends: base
+               , containers
+               , QuickCheck
+               , recursion-schemes
   exposed-modules: Main
   default-language: Haskell2010
   hs-source-dirs: applicative-programming-with-effects
 
 library clowns-to-the-left-of-me-jokers-to-the-right-dissecting-data-structures
-  build-depends: base ^>= 4.14
+  build-depends: base
   exposed-modules: Main
   default-language: Haskell2010
   hs-source-dirs: clowns-to-the-left-of-me-jokers-to-the-right-dissecting-data-structures
 
 library fixing-idioms
-  build-depends: base ^>= 4.14
-               , containers ^>= 0.6
-               , free ^>= 5.1
+  build-depends: base
+               , containers
+               , free
   exposed-modules: Main
   default-language: Haskell2010
   hs-source-dirs: fixing-idioms
 
 library functional-programming-with-bananas-lenses-envelopes-and-barbed-wire
-  build-depends: base ^>= 4.14
+  build-depends: base
   exposed-modules: Main
   default-language: Haskell2010
   hs-source-dirs: functional-programming-with-bananas-lenses-envelopes-and-barbed-wire
 
 library it-is-as-easy-as-1-2-3
-  build-depends: base ^>= 4.14
-               , containers ^>= 0.6
-               , QuickCheck ^>= 2.14
+  build-depends: base
+               , containers
+               , QuickCheck
   exposed-modules: Main
   default-language: Haskell2010
   hs-source-dirs: it's-as-easy-as-1-2-3
 
 library nondeterminism-with-referential-transparency-in-functional-programming-languages
-  build-depends: base ^>= 4.14
-               , containers ^>= 0.6
-               , mtl ^>= 2.2
-               , QuickCheck ^>= 2.14
-               , recursion-schemes ^>= 5.2
+  build-depends: base
+               , containers
+               , mtl
+               , QuickCheck
+               , recursion-schemes
   exposed-modules: Main
   default-language: Haskell2010
   hs-source-dirs: nondeterminism-with-referential-transparency-in-functional-programming-languages
 
 library probabilistic-functional-programming-in-haskell
-  build-depends: base ^>= 4.14
-               , containers ^>= 0.6
-               , random ^>= 1.2.1
+  build-depends: base
+               , containers
+               , random
   exposed-modules: Main
   default-language: Haskell2010
   hs-source-dirs: probabilistic-functional-programming-in-haskell
