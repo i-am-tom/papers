@@ -63,3 +63,12 @@ library probabilistic-functional-programming-in-haskell
   exposed-modules: Main
   default-language: Haskell2010
   hs-source-dirs: probabilistic-functional-programming-in-haskell
+
+library tracing-monadic-computations-and-representing-effects
+  build-depends: base
+               , containers
+               , mtl
+               , QuickCheck
+  exposed-modules: Main
+  default-language: Haskell2010
+  hs-source-dirs: tracing-monadic-computations-and-representing-effects
