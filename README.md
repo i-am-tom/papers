@@ -10,6 +10,8 @@ will most likely take the form of Haskell code, but we'll see what happens.
 
 * [Applicative programming with effects](https://github.com/i-am-tom/papers/blob/master/applicative-programming-with-effects/Main.hs) _- Conor McBride, Ross Paterson_
 
+* [A Theory of Changes for Higher-Order Languages: Incrementalizing λ-Calculi by Static Differentiation](https://github.com/i-am-tom/papers/blob/master/a-theory-of-changes-for-higher-order-languages/Main.hs) _- Yufei Cai, Paolo G. Giarrusso, Tillmann Rendel, Klaus Ostermann_
+
 * [Clowns to the Left of me, Jokers to the Right: Dissecting Data Structures](https://github.com/i-am-tom/papers/blob/master/clowns-to-the-left-of-me-jokers-to-the-right-dissecting-data-structures/Main.hs) _- Conor McBride_
 
 * [Fixing idioms: A recursion primitive for applicative DSLs](https://github.com/i-am-tom/papers/blob/master/fixing-idioms/Main.hs) _- Dominique Devriese, Ilya Sergey, Dave Clarke, Frank Piessens_
